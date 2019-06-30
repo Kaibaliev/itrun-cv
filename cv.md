@@ -66,5 +66,5 @@ E-mail: chika.kaiba.kg@gmail.com
   * introductory video tutorials (in free time)
   * online courses "geekbrains" (3 hours)
 * #### English
-  * school нуфкы (3 years)
+  * school programm (3 years)
   * business pre-intrmediant (3 months)
