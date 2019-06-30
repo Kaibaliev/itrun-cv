@@ -10,11 +10,18 @@ E-mail: chika.kaiba.kg@gmail.com
  learning new things from everywhere etc.
  
 * #### Skills
-Languages | frameworks |tools | other
------------- | ------------- | -------------| -------------
-html | bootstrap |Php-Storm| -
-css | owl-carussel | Ai | -
-JS |  |Ps| -
+  * Languages 
+     * html
+     * css
+     * JS 
+   * Frameworks 
+     * bootstrap
+     * owl-carussel
+   * Tools
+     * Php-Storm
+     * Adobe illustrator 
+     * Photo shop
+     
  * #### Code examples:
    
   ```html
